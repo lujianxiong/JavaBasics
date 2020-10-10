@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d0d022c-1542-4d16-b325-2cb366d93d48" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第44节_学生信息比较_类库案例八/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第44节_学生信息比较_类库案例八/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第30节_Comparable接口比较器/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第30节_Comparable接口比较器/Tset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Java/jdk/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31717">
+              <caret line="1434" column="28" selection-start-line="1434" selection-start-column="28" selection-end-line="1434" selection-end-column="28" />
+              <folding>
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Java/jdk/src.zip!/java/lang/Comparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2553">
+              <caret line="134" column="7" selection-start-line="134" selection-start-column="7" selection-end-line="134" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/MathUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第12节_SimpleDateFormat日期格式化/demo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第12节_SimpleDateFormat日期格式化/demo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第12节_SimpleDateFormat日期格式化/demo5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/第11节_Data日期操作类/demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/第11节_Data日期操作类/demo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bigA</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BigA</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/第26节ThreadLocal类/多线程的影响/Client.java" />
+        <option value="$PROJECT_DIR$/src/第26节ThreadLocal类/ThreadLocal类解决多线程数据覆盖问题/Channel.java" />
+        <option value="$PROJECT_DIR$/src/第26节ThreadLocal类/ThreadLocal类解决多线程数据覆盖问题/Client.java" />
+        <option value="$PROJECT_DIR$/src/第26节ThreadLocal类/ThreadLocal类解决多线程数据覆盖问题/Message.java" />
+        <option value="$PROJECT_DIR$/src/第27节_TimerTask类Timer类/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/第27节_TimerTask类Timer类/Client.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/demo1.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/demo2.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/demo3.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/NewPatterns.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/StringUtil2.java" />
+        <option value="$PROJECT_DIR$/src/第28节_Base64类加密与解密/demo3_2.java" />
+        <option value="$PROJECT_DIR$/src/第29节_比较器问题引出/demo1.java" />
+        <option value="$PROJECT_DIR$/src/第29节_比较器问题引出/demo2.java" />
+        <option value="$PROJECT_DIR$/src/第29节_比较器问题引出/Person.java" />
+        <option value="$PROJECT_DIR$/src/第29节_比较器问题引出/demo3.java" />
+        <option value="$PROJECT_DIR$/src/第30节_Comparable接口比较器/Tset.java" />
+        <option value="$PROJECT_DIR$/src/第31节_Comparator类比较器/Tset.java" />
+        <option value="$PROJECT_DIR$/src/第31节_Comparator类比较器/Person.java" />
+        <option value="$PROJECT_DIR$/src/第31节_Comparator接口比较器/Person.java" />
+        <option value="$PROJECT_DIR$/src/第31节_Comparator接口比较器/PersonComparator.java" />
+        <option value="$PROJECT_DIR$/src/第31节_Comparator接口比较器/Tset.java" />
+        <option value="$PROJECT_DIR$/src/第31节_Comparator接口比较器/Test2.java" />
+        <option value="$PROJECT_DIR$/src/第30节_Comparable接口比较器/Person.java" />
+        <option value="$PROJECT_DIR$/src/第33节_二叉树基础实现/Person.java" />
+        <option value="$PROJECT_DIR$/src/第33节_二叉树基础实现/Test.java" />
+        <option value="$PROJECT_DIR$/src/第33节_二叉树基础实现/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/第33节_二叉树基础实现/MapBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/第35节_二叉树数据删除/Person.java" />
+        <option value="$PROJECT_DIR$/src/第35节_二叉树数据删除/Test.java" />
+        <option value="$PROJECT_DIR$/src/第35节_二叉树数据删除/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/第37节_StringBuffer类案例_类库案例一/demo.java" />
+        <option value="$PROJECT_DIR$/src/第38节_Random随机数组_类库案例二/Test.java" />
+        <option value="$PROJECT_DIR$/src/第39节_Email正则验证_类库案例三/Validator.java" />
+        <option value="$PROJECT_DIR$/src/第39节_Email正则验证_类库案例三/Test.java" />
+        <option value="$PROJECT_DIR$/src/第38节_Random随机数组_类库案例二/NumberFactory.java" />
+        <option value="$PROJECT_DIR$/src/第40节_扔硬币统计正反面数量_类库案例四/Coin.java" />
+        <option value="$PROJECT_DIR$/src/第40节_扔硬币统计正反面数量_类库案例四/Test.java" />
+        <option value="$PROJECT_DIR$/src/第41节_IP地址正则验证_类库案例五/Test.java" />
+        <option value="$PROJECT_DIR$/src/第41节_IP地址正则验证_类库案例五/Validator.java" />
+        <option value="$PROJECT_DIR$/src/第42节_HTML正则拆分_类库案例六/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/daxiong/message/Message_zh_CN.properties" />
+        <option value="$PROJECT_DIR$/src/cn/daxiong/message/Message_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/第43节_国家代码与信息显示_类库案例七/Message.java" />
+        <option value="$PROJECT_DIR$/src/第43节_国家代码与信息显示_类库案例七/MessageUtil.java" />
+        <option value="$PROJECT_DIR$/src/第43节_国家代码与信息显示_类库案例七/Test.java" />
+        <option value="$PROJECT_DIR$/src/第44节_学生信息比较_类库案例八/Test.java" />
+        <option value="$PROJECT_DIR$/src/第44节_学生信息比较_类库案例八/Student.java" />
+        <option value="$PROJECT_DIR$/src/第8节_Math类数学计算/MathUtil.java" />
+        <option value="$PROJECT_DIR$/src/第11节_Data日期操作类/demo2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第8节_Math类数学计算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第11节_Data日期操作类" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第12节_SimpleDateFormat日期格式化" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第20节_读取资源文件名称" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CommonClassLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonClassLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第30节_Comparable接口比较器" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/第35节_二叉树数据删除" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA 2019\CommonClassLibrary\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="第33节_二叉树基础实现" />
+      <recent name="第30节_Comparable接口比较器" />
+      <recent name="第28节_Base64类加密与解密" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA 2019\CommonClassLibrary\src\第35节_二叉树数据删除" />
+      <recent name="E:\IDEA 2019\CommonClassLibrary\src\第31节_Comparator类比较器" />
+      <recent name="E:\IDEA 2019\CommonClassLibrary\src\第26节ThreadLocal类\ThreadLocal类解决多线程数据覆盖问题" />
+      <recent name="E:\IDEA 2019\CommonClassLibrary\src\第26节ThreadLocal类\多线程的影响" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.demo2">
+    <configuration name="Test (1)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第42节_HTML正则拆分_类库案例六.Test" />
+      <module name="CommonClassLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第42节_HTML正则拆分_类库案例六.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第44节_学生信息比较_类库案例八.Test" />
+      <module name="CommonClassLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第44节_学生信息比较_类库案例八.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第43节_国家代码与信息显示_类库案例七.Test" />
+      <module name="CommonClassLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第43节_国家代码与信息显示_类库案例七.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第41节_IP地址正则验证_类库案例五.Test" />
+      <module name="CommonClassLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第41节_IP地址正则验证_类库案例五.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第11节_Data日期操作类.demo2" />
+      <module name="CommonClassLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第11节_Data日期操作类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.demo2" />
+        <item itemvalue="应用程序.Test (3)" />
+        <item itemvalue="应用程序.Test (5)" />
+        <item itemvalue="应用程序.Test (1)" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0d022c-1542-4d16-b325-2cb366d93d48" name="Default Changelist" comment="" />
+      <created>1590394922199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590394922199</updated>
+      <workItem from="1590394923541" duration="39207000" />
+      <workItem from="1590545615134" duration="25000" />
+      <workItem from="1590545974302" duration="77215000" />
+      <workItem from="1590977047048" duration="21255000" />
+      <workItem from="1591061925931" duration="14338000" />
+      <workItem from="1591152749568" duration="1503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="153543000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25227273" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="设计师" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="找到" order="7" weight="0.32847896" />
+      <window_info anchor="bottom" id="运行" order="8" sideWeight="0.49848485" weight="0.2184466" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32847896" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50151515" side_tool="true" weight="0.43203884" />
+      <window_info anchor="bottom" id="消息" order="14" weight="0.32847896" />
+      <window_info anchor="bottom" id="调试" order="15" weight="0.32847896" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/第29节_比较器问题引出/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_Comparator接口比较器/PersonComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_Comparator接口比较器/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_Comparator接口比较器/Tset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第33节_二叉树基础实现/Binary.java" />
+    <entry file="file://$PROJECT_DIR$/src/第33节_34节_二叉树基础实现及数据查询/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第33节_二叉树基础实现/BinaryTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/第33节_34节_二叉树基础实现及数据查询/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_Comparator接口比较器/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第35节_二叉树数据删除/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第33节_34节_二叉树基础实现及数据查询/MapBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3703">
+          <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第35节_二叉树数据删除/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第35节_二叉树数据删除/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第37节_StringBuffer类案例_类库案例一/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第39节_Email正则验证_类库案例三/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第39节_Email正则验证_类库案例三/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第38节_Random随机数组_类库案例二/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第40节_扔硬币统计正反面数量_类库案例四/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第40节_扔硬币统计正反面数量_类库案例四/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第38节_Random随机数组_类库案例二/NumberFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第41节_IP地址正则验证_类库案例五/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第42节_HTML正则拆分_类库案例六/Tset.java" />
+    <entry file="file://$PROJECT_DIR$/src/第41节_IP地址正则验证_类库案例五/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第42节_HTML正则拆分_类库案例六/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/daxiong/message/Message_zh_CN.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/daxiong/message/Message_en_US.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_Locale类_国际化/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_Locale类_国际化/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_Locale类_国际化/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第20节_读取资源文件名称/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第20节_读取资源文件名称/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第43节_国家代码与信息显示_类库案例七/MessageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第43节_国家代码与信息显示_类库案例七/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第44节_学生信息比较_类库案例八/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第44节_学生信息比较_类库案例八/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第30节_Comparable接口比较器/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第30节_Comparable接口比较器/Tset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31717">
+          <caret line="1434" column="28" selection-start-line="1434" selection-start-column="28" selection-end-line="1434" selection-end-column="28" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2553">
+          <caret line="134" column="7" selection-start-line="134" selection-start-column="7" selection-end-line="134" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/demo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_Math类数学计算/MathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第12节_SimpleDateFormat日期格式化/demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第12节_SimpleDateFormat日期格式化/demo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第12节_SimpleDateFormat日期格式化/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第11节_Data日期操作类/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第11节_Data日期操作类/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

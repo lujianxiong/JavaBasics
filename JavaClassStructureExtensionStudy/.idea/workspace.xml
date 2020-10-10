@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f134b369-1045-468d-839f-72fc0ade3637" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Sex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/Singleton.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/Singleton2.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/Test.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第8节_多例设计模式/Color.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第8节_多例设计模式/Test.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/Color.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/Test.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/Test2.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第10节_Enum类/Test.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第10节_Enum类/Color.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/IMessage.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/Color.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/Test.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法/IMessage.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法/Color.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法/Test.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Sex.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Person.java" />
+        <option value="$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClassStructureExtension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClassStructureExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClassStructureExtension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClassStructureExtension" type="462c0819:PsiDirectoryNode" />
+              <item name="cn.Daxiong" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="第11节_定义枚举结构" />
+      <recent name="第10节_Enum类" />
+      <recent name="第7节_单例设计模式" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA 2019\ClassStructureExtension\cn.Daxiong\第11节_定义枚举结构\枚举中定义抽象方法" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.Test">
+    <configuration name="Test (2)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第9节_定义枚举类型.Test" />
+      <module name="ClassStructureExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第9节_定义枚举类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第10节_Enum类.Test" />
+      <module name="ClassStructureExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第10节_Enum类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第11节_定义枚举结构.Test" />
+      <module name="ClassStructureExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第11节_定义枚举结构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第12节_枚举应用案例.Test" />
+      <module name="ClassStructureExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第12节_枚举应用案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第9节_定义枚举类型.Test2" />
+      <module name="ClassStructureExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第9节_定义枚举类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.Test (4)" />
+        <item itemvalue="应用程序.Test (3)" />
+        <item itemvalue="应用程序.Test2" />
+        <item itemvalue="应用程序.Test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f134b369-1045-468d-839f-72fc0ade3637" name="Default Changelist" comment="" />
+      <created>1589159579590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589159579590</updated>
+      <workItem from="1589159581159" duration="14358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14358000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="UI Designer" />
+      <window_info id="设计师" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="调试" />
+      <window_info anchor="bottom" id="找到" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="消息" weight="0.20873787" />
+      <window_info anchor="bottom" id="运行" weight="0.27184466" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第2节_包的导入/第2节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第3节_静态导入/第3节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第4节_jar文件/第四节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第5节_系统常用包/第5节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第6节_访问控制权限/第6节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/第7节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第8节_多例设计模式/第8节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/第9节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第10节_Enum类/第10节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/第11节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/第12节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第1节_包的定义/第1节笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第6节_访问控制权限/Singlrton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/Singleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第7节_单例设计模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第8节_多例设计模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第8节_多例设计模式/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第10节_Enum类/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第10节_Enum类/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第9节_定义枚举类型/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法/IMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第11节_定义枚举结构/枚举中定义抽象方法/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cn.Daxiong/第12节_枚举应用案例/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

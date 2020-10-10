@@ -1,0 +1,14 @@
+包装类可以实现字符串和基本数据类型之间的转换：
+
+在开发过程中，用户可以输入的数据只有一种：就是字符串(String)，
+那么程序需要将字符串变为基本数据类型，这就要通过转换来完成，包装类提供有转换的功能。
+- Integer类：public static int parseInt(String s)
+- Double类：public static int parseDouble(String s)
+- Boolean类：public static int parseBoolean(String s)
+（方法定义的是static，可以通过类名直接调用）
+
+现在就实现了字符串向基本数据类型的转换；如果反过来，从基本数据类型转向字符串：
+- 做法一：任意的基本数据类型与字符串连接后都自动变为String类型 （这种做法会产生无用的垃圾）
+- 做法二：String类中提供有一系列的valueOf()方法 (此方式在进行转换的时候至少可以避免一些垃圾的产生)
+
+所有的开发都会涉及到包装类，也都会存在有字符串与基本数据类型的转换，重要！

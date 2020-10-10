@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efcdac95-c2b7-4cf7-bd8f-91e905794a7f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/第21节_Scanner输入流工具/demo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>age</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>score</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/第25节_IO编程案例一_输入数字大小比较/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第25节_IO编程案例一_输入数字大小比较/IOCaseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第25节_IO编程案例一_输入数字大小比较/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第25节_IO编程案例一_输入数字大小比较/NumberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/IFileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/IFileService.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/FileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/demo.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第26节_IO编程案例二_文件保存/InputUtil2.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/IStringService.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/Menu.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/StringServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/Test.java" />
+        <option value="$PROJECT_DIR$/src/第27节_IO编程案例三_字符串逆序显示/IOCaseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第28节_IO编程案例四_类对象排序处理/IStudentService.java" />
+        <option value="$PROJECT_DIR$/src/第28节_IO编程案例四_类对象排序处理/Student.java" />
+        <option value="$PROJECT_DIR$/src/第28节_IO编程案例四_类对象排序处理/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第28节_IO编程案例四_类对象排序处理/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第28节_IO编程案例四_类对象排序处理/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第28节_IO编程案例四_类对象排序处理/IOCaseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/IStudentService.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/IOCaseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/Menu.java" />
+        <option value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/INumberService.java" />
+        <option value="$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/NumberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/IOCsseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/IUserService.java" />
+        <option value="$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/UserServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/IOCsseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/Student.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/Factory.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/InputUtil.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/IOCaseDemo.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/VoteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/IVoteService.java" />
+        <option value="$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/Menu.java" />
+        <option value="$PROJECT_DIR$/src/第11节_字节流与字符流区别/demo.java" />
+        <option value="$PROJECT_DIR$/src/第18节_打印流/PrintUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="764" />
+    <option name="width" value="602" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IO program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IO program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IO program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IO program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/第29节_IO编程案例四扩展_类对象排序处理" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="第32节_IO编程案例七_投票选举" />
+      <recent name="第31节_IO编程案例六_用户登录验证" />
+      <recent name="第30节_IO编程案例五_奇偶数统计" />
+      <recent name="第29节_IO编程案例四扩展_类对象排序处理" />
+      <recent name="第28节_IO编程案例四_类对象排序处理" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA 2019\IO program\src\第29节_IO编程案例四扩展_类对象排序处理" />
+      <recent name="E:\IDEA 2019\IO program\src\第24节_transient关键字" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.IOCaseDemo">
+    <configuration name="IOCaseDemo (2)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第28节_IO编程案例四_类对象排序处理.IOCaseDemo" />
+      <module name="IO program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第28节_IO编程案例四_类对象排序处理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCaseDemo (3)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第29节_IO编程案例四扩展_类对象排序处理.IOCaseDemo" />
+      <module name="IO program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第29节_IO编程案例四扩展_类对象排序处理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCaseDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第32节_IO编程案例七_投票选举.IOCaseDemo" />
+      <module name="IO program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第32节_IO编程案例七_投票选举.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCsseDemo (1)" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第31节_IO编程案例六_用户登录验证.IOCsseDemo" />
+      <module name="IO program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第31节_IO编程案例六_用户登录验证.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCsseDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第30节_IO编程案例五_奇偶数统计.IOCsseDemo" />
+      <module name="IO program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第30节_IO编程案例五_奇偶数统计.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.IOCaseDemo" />
+        <item itemvalue="应用程序.IOCsseDemo (1)" />
+        <item itemvalue="应用程序.IOCsseDemo" />
+        <item itemvalue="应用程序.IOCaseDemo (3)" />
+        <item itemvalue="应用程序.IOCaseDemo (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efcdac95-c2b7-4cf7-bd8f-91e905794a7f" name="Default Changelist" comment="" />
+      <created>1591090334280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591090334280</updated>
+      <workItem from="1591090335877" duration="70784000" />
+      <workItem from="1591619655747" duration="34936000" />
+      <workItem from="1591872148781" duration="21286000" />
+      <workItem from="1592401759314" duration="945000" />
+      <workItem from="1593163628196" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128876000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="UI Designer" order="0" />
+      <window_info id="设计师" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="运行" order="2" sideWeight="0.49848485" weight="0.22330096" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50151515" side_tool="true" weight="0.45954692" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="消息" order="14" weight="0.1904762" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3282572" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="UI Designer" order="0" />
+      <window_info id="设计师" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="运行" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/INumberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/InputUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/NumberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第30节_IO编程案例五_奇偶数统计/IOCsseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/InputUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/IOCsseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第31节_IO编程案例六_用户登录验证/UserServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/IVoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/VoteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/InputUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第32节_IO编程案例七_投票选举/IOCaseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第2节_File类操作深入/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第2节_File类操作深入/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第2节_File类操作深入/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4节_File案例_列出目录全部文件/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第7节_OutputStream字节输出流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第7节_OutputStream字节输出流/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第7节_OutputStream字节输出流/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_InputStream字节输入流/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第9节_Writer字符输出流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第9节_Writer字符输出流/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第9节_Writer字符输出流/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第8节_InputStream字节输入流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第10节_Reader字符输入流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第11节_字节流与字符流区别/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第12节_转换流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第14节_字符编码/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第14节_字符编码/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第14节_字符编码/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_打印流/PrintUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第17节_RandomAccessFile/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第17节_RandomAccessFile/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第20节_BufferedReader缓冲输入流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第20节_BufferedReader缓冲输入流/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第19节_System类对IO的支持/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第19节_System类对IO的支持/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第19节_System类对IO的支持/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_打印流/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_打印流/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第18节_打印流/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第21节_Scanner输入流工具/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第21节_Scanner输入流工具/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第21节_Scanner输入流工具/demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第21节_Scanner输入流工具/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

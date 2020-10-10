@@ -1,0 +1,19 @@
+基本数据类型的包装类都是为了基本数据类型转为对象提供的，基本数据类型与包装类之间有如下操作关系：
+· 数据装箱：将基本数据类型保存到包装类之中一般可以利用构造方法完成。
+    |- Integer类(java.lang.Integer)：public Integer (int value) (Deprecated)
+    |- Double类(java.lang.Double)：public Double​(double value) (Deprecated)
+    |- Boolean类(java.lang.Boolean)：public Boolean (boolean value) (Deprecated)
+
+· 数据拆箱：从包装类中获取基本数据类型
+    |- 数值型包装类已经由Number类定义了拆箱的方法了。
+    |- Boolean型：public boolean booleanValue ()
+
+在JDK1.9之后包装类之中提供的构造方法就废弃了，不建议继续使用但是还可以用。
+这是在JDK1.5之后为了方便处理提供了自动的装箱与拆箱的操作，所以这种手工的模式基本上没人用了。
+JDK1.9之后为了巩固此概念，将包装类的构造方法都设置为过期声明。
+
+除了提供有这种自动的数学运算支持之外，使用自动装箱的最大的好处是可以实现Object接收基本数据类型的操作。
+
+关于包装类的相等判断需要注意：
+总结：包装类需要考虑占位的长度，如果超过一位（-128～127），就需要使用equals比较，如果不超过则可以使用“==”判断
+对于两个非new生成的Integer对象，进行比较时，如果两个变量的值在区间-128到127之间，则比较结果为true，如果两个变量的值不在此区间，则比较结果为false
